@@ -90,6 +90,12 @@ body{
         width: 45px;
     }
     .humidity, .wind{
-        font-size: 18px;
+        font-size: 12px;
+    }
+    .col img{
+        width: 20px;
+    }
+    .card{
+        margin-top: 20px;
     }
 }
