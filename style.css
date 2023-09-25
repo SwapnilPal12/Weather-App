@@ -80,3 +80,16 @@ body{
     font-size: 28px;
     margin-top: -6px;
 }
+@media screen and (max-width:768px) {
+    .search input{
+        width: 100px;
+        height: 45px;
+    }
+    .search button{
+        height: 45px;
+        width: 45px;
+    }
+    .humidity, .wind{
+        font-size: 18px;
+    }
+}
